@@ -35,7 +35,7 @@ An interactive web-based C4 model viewer for Structurizr DSL, built with React, 
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd structurizr-dsl-viewer
+cd structurizrvisualizr
 ```
 
 2. Install dependencies:
